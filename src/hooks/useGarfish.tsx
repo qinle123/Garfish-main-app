@@ -8,7 +8,7 @@ export default () => {
       {
         name: 'micro1',
         activeWhen: '/micro1',
-        entry: 'https://terminal-config-center.biz.sheincorp.cn:3001/',
+        entry: 'https://localhost:3001/',
       },
       {
         name: 'micro2',
